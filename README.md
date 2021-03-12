@@ -3,9 +3,5 @@
 * 🌱 我目前正在学习`kubernetes`🛳 `Python`🐍.
 * 📝 我会在博客中记录✍我的笔记，经验和一些技巧.
 * ⚡️ 关于我的爱好。我喜欢玩🎮,喜欢看电影🎦.不过我现在没有🙅‍时间去做这些.目前我比较喜欢陪👶做游戏.游戏.
-pie
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5 
+* 
+![Github stats](https://github-readme-stats.vercel.app/api?username=zops&theme=highcontrast&show_icons=true&count_private=true)
